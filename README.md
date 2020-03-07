@@ -1,9 +1,11 @@
 # Books
 As personal library
 
-# In Reading
+# Completed
 
 精實開發與看板方法 [https://www.tenlong.com.tw/products/9789865617028]
+
+# In Reading
 
 # In Queue
 
