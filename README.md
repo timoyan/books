@@ -5,6 +5,8 @@ As personal library
 
 精實開發與看板方法 [https://www.tenlong.com.tw/products/9789865617028]
 
+忍者 JavaScript 開發技巧探秘 第二版
+
 # In Reading
 
 # In Queue
