@@ -7,6 +7,8 @@ As personal library
 
 忍者 JavaScript 開發技巧探秘 第二版
 
+漫画算法：小灰的算法之旅 [https://book.douban.com/subject/33420587/]
+
 # In Reading
 
 用户体验要素：以用户为中心的产品设计（原书第2版）[https://item.jd.com/12512975.html]
