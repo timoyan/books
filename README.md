@@ -9,9 +9,13 @@ As personal library
 
 漫画算法：小灰的算法之旅 [https://book.douban.com/subject/33420587/]
 
-# In Reading
-
 用户体验要素：以用户为中心的产品设计（原书第2版）[https://item.jd.com/12512975.html]
+
+GraphQL实战 [https://book.douban.com/subject/34782877/]
+
+Mountebank微服务测试 [https://item.jd.com/12611073.html]
+
+# In Reading
 
 # In Queue
 
@@ -21,4 +25,4 @@ As personal library
 
 第五项修炼 [https://item.jd.com/30170018953.html]
 
-Mountebank微服务测试 [https://item.jd.com/12611073.html]
+
