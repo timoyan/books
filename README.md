@@ -21,8 +21,14 @@ Mountebank微服务测试 [https://item.jd.com/12611073.html]
 
 # In Cart
 
-原型设计：打造成功产品的实用方法及实践 [https://item.jd.com/12553382.html]
+原型设计：打造成功产品的实用方法及实践 [https://item.jd.com/12553382.html] [https://www.tenlong.com.tw/products/9789865024369?list_name=r-zh_tw]
 
 第五项修炼 [https://item.jd.com/30170018953.html]
+
+最親切的 SEO 入門教室｜關鍵字編輯x內容行銷x網站分析 [https://www.tenlong.com.tw/products/9789865024499?list_name=i-r-zh_tw]
+
+敏捷大師精選 (Best Agile Articles of 2018) [https://www.tenlong.com.tw/products/9789864344604?list_name=r-zh_tw]
+
+圖解 Fintech 的知識與技術 [https://www.tenlong.com.tw/products/9789865024314?list_name=r-zh_tw]
 
 
