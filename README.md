@@ -31,4 +31,4 @@ Mountebank微服务测试 [https://item.jd.com/12611073.html]
 
 圖解 Fintech 的知識與技術 [https://www.tenlong.com.tw/products/9789865024314?list_name=r-zh_tw]
 
-
+自動化測試實戰寶典：RobotFramework + Python 從小工到專家 [https://item.jd.com/12629017.html]
