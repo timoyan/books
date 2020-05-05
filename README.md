@@ -34,3 +34,5 @@ TypeScript 程式設計 [http://books.gotop.com.tw/v_a604]
 圖解 Fintech 的知識與技術 [https://www.tenlong.com.tw/products/9789865024314?list_name=r-zh_tw]
 
 自動化測試實戰寶典：RobotFramework + Python 從小工到專家 [https://item.jd.com/12629017.html]
+
+Effective TypeScript: 62 Specific Ways to Improve Your TypeScript [https://www.amazon.com/Effective-TypeScript-Specific-Ways-Improve-ebook/dp/B07Z8HRZZ3]
