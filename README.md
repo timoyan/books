@@ -15,6 +15,8 @@ GraphQL实战 [https://book.douban.com/subject/34782877/]
 
 Mountebank微服务测试 [https://item.jd.com/12611073.html]
 
+TypeScript 程式設計 [http://books.gotop.com.tw/v_a604]
+
 # In Reading
 
 # In Queue
