@@ -19,6 +19,10 @@ TypeScript 程式設計 [http://books.gotop.com.tw/v_a604]
 
 # In Reading
 
+Working Effectively with Legacy Code中文版：管理、修改、重構遺留程式碼的藝術 [https://www.books.com.tw/products/0010829482]
+
+大前端入门指南 [https://book.douban.com/subject/33950089/]
+
 # In Queue
 
 # In Cart
