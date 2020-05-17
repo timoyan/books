@@ -5,7 +5,7 @@ As personal library
 
 精實開發與看板方法 [https://www.tenlong.com.tw/products/9789865617028]
 
-忍者 JavaScript 開發技巧探秘 第二版
+忍者 JavaScript 開發技巧探秘 第二版 [https://www.books.com.tw/products/0010773867]
 
 漫画算法：小灰的算法之旅 [https://book.douban.com/subject/33420587/]
 
