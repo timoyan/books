@@ -19,6 +19,8 @@ TypeScript 程式設計 [http://books.gotop.com.tw/v_a604]
 
 Working Effectively with Legacy Code中文版：管理、修改、重構遺留程式碼的藝術 [https://www.books.com.tw/products/0010829482]
 
+會計帝國: 四大會計師事務所的壟斷與危機 [http://www.eslite.com/product.aspx?pgid=1001243252818629&kw=The+Big+Four&pi=0]
+
 # In Reading
 
 大前端入门指南 [https://book.douban.com/subject/33950089/]
