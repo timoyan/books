@@ -21,6 +21,8 @@ Working Effectively with Legacy Code中文版：管理、修改、重構遺留�
 
 會計帝國: 四大會計師事務所的壟斷與危機 [http://www.eslite.com/product.aspx?pgid=1001243252818629&kw=The+Big+Four&pi=0]
 
+教練：價值兆元的管理課，賈伯斯、佩吉、皮查不公開教練的高績效團隊心法 [https://www.books.com.tw/products/0010859317]
+
 # In Reading
 
 大前端入门指南 [https://book.douban.com/subject/33950089/]
