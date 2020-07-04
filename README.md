@@ -23,6 +23,8 @@ Working Effectively with Legacy Code中文版：管理、修改、重構遺留�
 
 教練：價值兆元的管理課，賈伯斯、佩吉、皮查不公開教練的高績效團隊心法 [https://www.books.com.tw/products/0010859317]
 
+2030世界未來報告書：區塊鏈、AI、生技與新能源革命、產業重新洗牌，接下來10年的工作與商機在哪裡？ [https://www.books.com.tw/products/0010854688]
+
 # In Reading
 
 大前端入门指南 [https://book.douban.com/subject/33950089/]
