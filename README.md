@@ -29,6 +29,8 @@ Working Effectively with Legacy Code中文版：管理、修改、重構遺留�
 
 大前端入门指南 [https://book.douban.com/subject/33950089/]
 
+0 門檻！0 負擔！9 天秒懂大數據 & AI 用語 [https://www.tenlong.com.tw/products/9789864343959]
+
 # In Queue
 
 # In Cart
