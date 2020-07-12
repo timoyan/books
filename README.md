@@ -25,11 +25,13 @@ Working Effectively with Legacy Code中文版：管理、修改、重構遺留�
 
 2030世界未來報告書：區塊鏈、AI、生技與新能源革命、產業重新洗牌，接下來10年的工作與商機在哪裡？ [https://www.books.com.tw/products/0010854688]
 
+0 門檻！0 負擔！9 天秒懂大數據 & AI 用語 [https://www.tenlong.com.tw/products/9789864343959]
+
 # In Reading
 
 大前端入门指南 [https://book.douban.com/subject/33950089/]
 
-0 門檻！0 負擔！9 天秒懂大數據 & AI 用語 [https://www.tenlong.com.tw/products/9789864343959]
+圖解Fintech的知識與技術 [https://www.books.com.tw/products/0010849843]
 
 # In Queue
 
