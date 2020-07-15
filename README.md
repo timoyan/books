@@ -33,6 +33,8 @@ Working Effectively with Legacy Code中文版：管理、修改、重構遺留�
 
 圖解Fintech的知識與技術 [https://www.books.com.tw/products/0010849843]
 
+Webpack实战：入门、进阶与调优 [https://book.douban.com/subject/34430881/]
+
 # In Queue
 
 敏捷大師精選 (Best Agile Articles of 2018) [https://www.tenlong.com.tw/products/9789864344604?list_name=r-zh_tw]
