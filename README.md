@@ -27,13 +27,13 @@ Working Effectively with Legacy Code中文版：管理、修改、重構遺留�
 
 0 門檻！0 負擔！9 天秒懂大數據 & AI 用語 [https://www.tenlong.com.tw/products/9789864343959]
 
+Webpack实战：入门、进阶与调优 [https://book.douban.com/subject/34430881/]
+
 # In Reading
 
 大前端入门指南 [https://book.douban.com/subject/33950089/]
 
 圖解Fintech的知識與技術 [https://www.books.com.tw/products/0010849843]
-
-Webpack实战：入门、进阶与调优 [https://book.douban.com/subject/34430881/]
 
 # In Queue
 
