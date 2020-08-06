@@ -29,6 +29,8 @@ Working Effectively with Legacy Code中文版：管理、修改、重構遺留�
 
 Webpack实战：入门、进阶与调优 [https://book.douban.com/subject/34430881/]
 
+深入理解ES6 [https://book.douban.com/subject/27072230/]
+
 # In Reading
 
 大前端入门指南 [https://book.douban.com/subject/33950089/]
