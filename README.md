@@ -31,13 +31,13 @@ As personal library
 
 [深入理解ES6](https://book.douban.com/subject/27072230/)
 
+[码农翻身](https://book.douban.com/subject/30231515/)
+
 # In Reading
 
 [大前端入门指南](https://book.douban.com/subject/33950089/)
 
 [圖解Fintech的知識與技術](https://www.books.com.tw/products/0010849843)
-
-[码农翻身](https://book.douban.com/subject/30231515/)
 
 [Node.js企业级应用开发实战](https://item.jd.com/12924544.html)
 
@@ -50,6 +50,7 @@ As personal library
 # In Cart
 
 [原型设计：打造成功产品的实用方法及实践 CN](https://item.jd.com/12553382.html)
+
 [原型设计：打造成功产品的实用方法及实践 TW](https://www.tenlong.com.tw/products/9789865024369?list_name=r-zh_tw)
 
 [第五项修炼](https://item.jd.com/30170018953.html)
