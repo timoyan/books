@@ -33,6 +33,8 @@ As personal library
 
 [码农翻身](https://book.douban.com/subject/30231515/)
 
+[Effective TypeScript: 62 Specific Ways to Improve Your TypeScript](https://www.amazon.com/Effective-TypeScript-Specific-Ways-Improve-ebook/dp/B07Z8HRZZ3)
+
 # In Reading
 
 [大前端入门指南](https://book.douban.com/subject/33950089/)
@@ -44,8 +46,6 @@ As personal library
 # In Queue
 
 [敏捷大師精選 (Best Agile Articles of 2018)](https://www.tenlong.com.tw/products/9789864344604?list_name=r-zh_tw)
-
-[Effective TypeScript: 62 Specific Ways to Improve Your TypeScript](https://www.amazon.com/Effective-TypeScript-Specific-Ways-Improve-ebook/dp/B07Z8HRZZ3)
 
 # In Cart
 
