@@ -35,6 +35,8 @@ As personal library
 
 [Effective TypeScript: 62 Specific Ways to Improve Your TypeScript](https://www.amazon.com/Effective-TypeScript-Specific-Ways-Improve-ebook/dp/B07Z8HRZZ3)
 
+[Web前端性能优化](https://book.douban.com/subject/35022948/)
+
 # In Reading
 
 [大前端入门指南](https://book.douban.com/subject/33950089/)
