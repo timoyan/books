@@ -49,6 +49,8 @@ As personal library
 
 [原型设计：打造成功产品的实用方法及实践 CN](https://item.jd.com/12553382.html)
 
+[逆向管理](https://book.douban.com/subject/26827314/)
+
 # In Queue
 
 # In Cart
