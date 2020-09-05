@@ -51,6 +51,8 @@ As personal library
 
 [逆向管理](https://book.douban.com/subject/26827314/)
 
+https://github.com/type-challenges/type-challenges Move to medium difficulty
+
 # In Queue
 
 # In Cart
