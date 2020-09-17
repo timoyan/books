@@ -39,6 +39,8 @@ As personal library
 
 [Node.js企业级应用开发实战](https://item.jd.com/12924544.html)
 
+[原型设计：打造成功产品的实用方法及实践 CN](https://item.jd.com/12553382.html)
+
 # In Reading
 
 [大前端入门指南](https://book.douban.com/subject/33950089/)
@@ -46,8 +48,6 @@ As personal library
 [圖解Fintech的知識與技術](https://www.books.com.tw/products/0010849843)
 
 [敏捷大師精選 (Best Agile Articles of 2018)](https://www.tenlong.com.tw/products/9789864344604?list_name=r-zh_tw)
-
-[原型设计：打造成功产品的实用方法及实践 CN](https://item.jd.com/12553382.html)
 
 [逆向管理](https://book.douban.com/subject/26827314/)
 
