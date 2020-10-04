@@ -43,9 +43,9 @@ As personal library
 
 [逆向管理](https://book.douban.com/subject/26827314/)
 
-# In Reading
+[直击本质](https://book.douban.com/subject/34911986/)
 
-[大前端入门指南](https://book.douban.com/subject/33950089/)
+# In Reading
 
 [圖解Fintech的知識與技術](https://www.books.com.tw/products/0010849843)
 
