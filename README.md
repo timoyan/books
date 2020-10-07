@@ -45,6 +45,8 @@ As personal library
 
 [直击本质](https://book.douban.com/subject/34911986/)
 
+[深入分布式缓存：从原理到实践](https://book.douban.com/subject/27602483/)
+
 # In Reading
 
 [圖解Fintech的知識與技術](https://www.books.com.tw/products/0010849843)
