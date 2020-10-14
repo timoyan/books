@@ -47,6 +47,8 @@ As personal library
 
 [深入分布式缓存：从原理到实践](https://book.douban.com/subject/27602483/)
 
+[逆向領導力](https://www.books.com.tw/products/CN11559445)
+
 # In Reading
 
 [圖解Fintech的知識與技術](https://www.books.com.tw/products/0010849843)
