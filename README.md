@@ -66,3 +66,13 @@ https://github.com/type-challenges/type-challenges Move to medium difficulty
 [最親切的 SEO 入門教室｜關鍵字編輯x內容行銷x網站分析](https://www.tenlong.com.tw/products/9789865024499?list_name=i-r-zh_tw)
 
 [自動化測試實戰寶典：RobotFramework + Python 從小工到專家](https://item.jd.com/12629017.html)
+
+[語意軟體設計](https://www.tenlong.com.tw/products/9789865025939?list_name=i-r-zh_tw)
+
+[大話 AWS 雲端架構：雲端應用架構圖解輕鬆學](https://www.tenlong.com.tw/products/9789864345137?list_name=r-zh_tw)
+
+[晉升成 HTTP 一代宗師：用 java 實作](https://www.tenlong.com.tw/products/9789863798033?list_name=r-zh_tw)
+
+[再強一點：用 Go語言完成六個大型專案](https://www.tenlong.com.tw/products/9789865501501?list_name=r-zh_tw)
+
+[從 Hooks 開始，讓你的網頁 React 起來](https://www.tenlong.com.tw/products/9789864345083?list_name=r-zh_tw)
