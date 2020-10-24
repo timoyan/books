@@ -49,6 +49,8 @@ As personal library
 
 [逆向領導力](https://www.books.com.tw/products/CN11559445)
 
+[Redis 深度历险：核心原理与应用实践](https://book.douban.com/subject/30386804/)
+
 # In Reading
 
 [圖解Fintech的知識與技術](https://www.books.com.tw/products/0010849843)
