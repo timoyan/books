@@ -53,6 +53,8 @@ As personal library
 
 [JavaScript语法简明手册](https://book.douban.com/subject/35115742/)
 
+[PWA实战](https://book.douban.com/subject/30262037/)
+
 # In Reading
 
 [圖解Fintech的知識與技術](https://www.books.com.tw/products/0010849843)
