@@ -55,6 +55,8 @@ As personal library
 
 [PWA实战](https://book.douban.com/subject/30262037/)
 
+[JavaScript重难点实例精讲](https://item.jd.com/12990008.html)
+
 # In Reading
 
 [圖解Fintech的知識與技術](https://www.books.com.tw/products/0010849843)
