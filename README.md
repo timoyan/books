@@ -57,6 +57,8 @@ As personal library
 
 [JavaScript重难点实例精讲](https://item.jd.com/12990008.html)
 
+[数据驱动：从方法到实践](https://book.douban.com/subject/30168661//)
+
 # In Reading
 
 [圖解Fintech的知識與技術](https://www.books.com.tw/products/0010849843)
