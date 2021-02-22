@@ -59,6 +59,8 @@ As personal library
 
 [数据驱动：从方法到实践](https://book.douban.com/subject/30168661//)
 
+[超越需求：敏捷思維模式下的分析](https://www.books.com.tw/products/CN11417742)
+
 # In Reading
 
 [圖解Fintech的知識與技術](https://www.books.com.tw/products/0010849843)
