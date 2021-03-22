@@ -61,6 +61,8 @@ As personal library
 
 [超越需求：敏捷思維模式下的分析](https://www.books.com.tw/products/CN11417742)
 
+[Docker專業養成：活用基礎與實踐技能](https://www.books.com.tw/products/0010771567)
+
 # In Reading
 
 [圖解Fintech的知識與技術](https://www.books.com.tw/products/0010849843)
@@ -86,7 +88,5 @@ https://github.com/type-challenges/type-challenges Move to medium difficulty
 [晉升成 HTTP 一代宗師：用 java 實作](https://www.tenlong.com.tw/products/9789863798033?list_name=r-zh_tw)
 
 [再強一點：用 Go語言完成六個大型專案](https://www.tenlong.com.tw/products/9789865501501?list_name=r-zh_tw)
-
-[從 Hooks 開始，讓你的網頁 React 起來](https://www.tenlong.com.tw/products/9789864345083?list_name=r-zh_tw)
 
 [Scrum 實踐者應該知道的 97件事｜來自專家的集體智慧](https://www.tenlong.com.tw/products/9789865026875)
