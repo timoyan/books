@@ -63,6 +63,8 @@ As personal library
 
 [Docker專業養成：活用基礎與實踐技能](https://www.books.com.tw/products/0010771567)
 
+[現代API：通往架構師之門](https://www.books.com.tw/products/CN11574070)
+
 # In Reading
 
 [圖解Fintech的知識與技術](https://www.books.com.tw/products/0010849843)
